@@ -1,0 +1,28 @@
+.main-div{
+    padding: 10px;
+}
+.noMargin{
+    margin-left: 0;
+    margin-right: 0;
+}
+.card-div{
+    background: yellow;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top:3%;
+    margin-bottom: 3%;
+}
+.author-tabs-div{
+    padding-top: 7px;
+}
+.select-div{
+    margin-bottom: 9px;
+}
+.load-div{
+    text-align: center;
+}
+.info-div{
+    background: gainsboro;
+    text-align: center;
+    margin:3%;
+}
