@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VakSight-web/static/css/main.207df65c.chunk.css",
+    "main.js": "/VakSight-web/static/js/main.e5aaca2a.chunk.js",
+    "main.js.map": "/VakSight-web/static/js/main.e5aaca2a.chunk.js.map",
+    "runtime-main.js": "/VakSight-web/static/js/runtime-main.7d6b65cf.js",
+    "runtime-main.js.map": "/VakSight-web/static/js/runtime-main.7d6b65cf.js.map",
+    "static/js/2.1f8dec1d.chunk.js": "/VakSight-web/static/js/2.1f8dec1d.chunk.js",
+    "static/js/2.1f8dec1d.chunk.js.map": "/VakSight-web/static/js/2.1f8dec1d.chunk.js.map",
+    "index.html": "/VakSight-web/index.html",
+    "precache-manifest.ba09350986918421ef09920ab647617b.js": "/VakSight-web/precache-manifest.ba09350986918421ef09920ab647617b.js",
+    "service-worker.js": "/VakSight-web/service-worker.js",
+    "static/css/main.207df65c.chunk.css.map": "/VakSight-web/static/css/main.207df65c.chunk.css.map",
+    "static/js/2.1f8dec1d.chunk.js.LICENSE.txt": "/VakSight-web/static/js/2.1f8dec1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6b65cf.js",
+    "static/js/2.1f8dec1d.chunk.js",
+    "static/css/main.207df65c.chunk.css",
+    "static/js/main.e5aaca2a.chunk.js"
+  ]
+}
