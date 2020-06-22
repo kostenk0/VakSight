@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VakSight/precache-manifest.4bdac3a516318e0aef6f4d6740a2591c.js"
+  "/VakSight/precache-manifest.a2c9ef372ce62caa5eb3a5d5f1571952.js"
 );
 
 self.addEventListener('message', (event) => {
